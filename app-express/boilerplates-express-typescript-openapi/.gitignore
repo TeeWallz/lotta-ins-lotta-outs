@@ -1,8 +1,0 @@
-/.vscode/
-/api/openapi/
-/build/
-/node_modules/
-package-lock.json
-.DS_Store
-yarn-error.log
-*.sql
